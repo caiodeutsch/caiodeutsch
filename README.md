@@ -7,7 +7,7 @@ Founder & Software Engineer with 14+ years of experience building startups from 
 I started my career building products from scratch and quickly fell in love with the intersection of **engineering, product, and execution**. Over the years, I’ve founded companies, led engineering teams, and taken startups from early-stage chaos to scale—always staying hands-on. My main focus today is building **AI-first products** with real business impact.
 
 * 🌍  I'm based in Brazil (working globally)
-* ✉️  You can contact me at: https://www.linkedin.com/in/your-linkedin
+* ✉️  You can contact me at: https://www.linkedin.com/in/caiodeutsch
 * 🎓  MSc in Natural Language Processing (NLP)
 * 🚀  2x Founder  
   - Founding Engineer → CTO at a Series A startup in Brazil (+100 employees)  
