@@ -68,7 +68,7 @@ I started my career building products from scratch and quickly fell in love with
 - **🏦 Fintech & Real Estate Platform (Series A)**  
   Founding Engineer → CTO at a Brazilian startup, leading the technology team through rapid growth (+100 employees). Designed scalable architectures, built internal platforms, and supported the company from early traction to Series A.
 
-- **🇺🇸 U.S.-Based Startup (Techstars)**  
+- **🇺🇸 U.S.-Based Fintech Startup (Techstars)**  
   Founding Engineer → CTO at a Techstars-backed company in the U.S., working closely with founders, customers, and investors to build the product, define technical strategy, and ship fast in an early-stage environment.
 
 - **🤖 AI-Driven Products & Platforms**  
