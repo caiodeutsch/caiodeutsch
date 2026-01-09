@@ -1,7 +1,7 @@
 Hi 👋 My name is Caio Deutsch
 ============================
 
-Founder & Software Engineer with 10+ years of experience building startups from zero to one. Passionate about AI, product, and scalable systems.
+Founder & Software Engineer with 14+ years of experience building startups from zero to one. Passionate about AI, product, and scalable systems.
 ------------------------------------------------------------------------------------------------------------
 
 I started my career building products from scratch and quickly fell in love with the intersection of **engineering, product, and execution**. Over the years, I’ve founded companies, led engineering teams, and taken startups from early-stage chaos to scale—always staying hands-on. My main focus today is building **AI-first products** with real business impact.
@@ -12,7 +12,7 @@ I started my career building products from scratch and quickly fell in love with
 * 🚀  2x Founder  
   - Founding Engineer → CTO at a Series A startup in Brazil (+100 employees)  
   - Founding Engineer → CTO at a U.S.-based startup (Techstars-backed)
-* 🧠  Currently focused on **LLMs, AI agents, and AI-first architectures**
+* 🧠  Currently focused on **LLMs, AI agents, and AI-first architectures**. I enjoy working with frameworks like [**LangGraph**](https://www.langchain.com/langgraph) to design agent-based workflows where autonomous components collaborate to solve complex problems.
 * 🏗️  I enjoy building MVPs fast, designing scalable systems, and working close to product and customers
 
 ---
@@ -89,14 +89,14 @@ Here you’ll find projects related to:
 ### Socials
 
 <p align="left">
-<a href="https://www.github.com/your-github" target="_blank" rel="noreferrer">
+<a href="https://github.com/caiodeutsch/" target="_blank" rel="noreferrer">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
   </picture>
 </a>
-<a href="https://www.linkedin.com/in/your-linkedin" target="_blank" rel="noreferrer">
+<a href="https://www.linkedin.com/in/caiodeutsch" target="_blank" rel="noreferrer">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
